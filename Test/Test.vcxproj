@@ -81,6 +81,16 @@
     <ClCompile Include="C:\Users\Admain\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\equation.cpp" />
     <ClCompile Include="C:\Users\Admain\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\Polynomail.cpp" />
     <ClCompile Include="C:\Users\Admain\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\Table.cpp" />
+    <ClCompile Include="K1.cpp" />
+    <ClCompile Include="qc.cpp" />
+    <ClCompile Include="removeBracket.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="K1In.txt" />
+    <Text Include="Out.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

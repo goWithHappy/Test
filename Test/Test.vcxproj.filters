@@ -13,16 +13,44 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\递归算法">
+      <UniqueIdentifier>{006cd3ca-e447-43cc-bb2e-ccc1f107a25d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\分治算法">
+      <UniqueIdentifier>{79a8fe0b-3640-42d8-94e5-86ba8ca81f4d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="C:\Users\Admain\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\equation.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\分治算法</Filter>
+    </ClCompile>
+    <ClCompile Include="K1.cpp">
+      <Filter>源文件\分治算法</Filter>
     </ClCompile>
     <ClCompile Include="C:\Users\Admain\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\Polynomail.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\分治算法</Filter>
+    </ClCompile>
+    <ClCompile Include="removeBracket.cpp">
+      <Filter>源文件\分治算法</Filter>
     </ClCompile>
     <ClCompile Include="C:\Users\Admain\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\Table.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\分治算法</Filter>
     </ClCompile>
+    <ClCompile Include="qc.cpp">
+      <Filter>源文件\分治算法</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="K1In.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="Out.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
